@@ -1,15 +1,11 @@
-import React from 'react'
-import { IconButton } from "@material-tailwind/react";
+import React from "react";
 
 const Home = () => {
   return (
     <div>
-      {" "}
-      <IconButton>
-        Hasan
-      </IconButton>
+      <h1 className="text-3xl font-semibold text-gray-800">Home</h1>
     </div>
   );
-}
+};
 
-export default Home
+export default Home;
