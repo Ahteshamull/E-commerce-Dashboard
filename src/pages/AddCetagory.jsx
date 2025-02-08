@@ -83,7 +83,7 @@ const AddCategory = () => {
           />
         </div>
 
-        {/* Category Description */}
+        {/* ============Category Description===== */}
         <div>
           <label className="block text-lg font-medium text-gray-700">
             Category Description
